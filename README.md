@@ -1,4 +1,4 @@
-This repo demostrates a bug in (prisma.io)[prisma.io] that
+This repo demostrates a bug in [prisma.io](https://www.prisma.io) that
 occurs when you try to insert into a table that has a space in the name
 of the table's primary key.
 
